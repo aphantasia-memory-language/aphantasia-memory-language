@@ -29,7 +29,7 @@ The collection script is read-only. It does not post, comment, vote, message use
   
 ## Data handling commitments
 - **Non-commercial, academic use only. Data is not sold, shared, or redistributed.
-- **No AI training. Collected content is not used to train machine learning or AI models.
+- **No AI model training. Collected content is not used to train or fine-tune language models or other generative AI systems, and is not shared with third-party AI services. Statistical models in this project (including a classifier for an exploratory research question) are fit only on aggregate linguistic measures derived from the text, and any automated text scoring runs locally.
 - **Pseudonymization at collection. Usernames are replaced with hashed IDs as data is collected.
 - **Respect for deletion. Deleted or removed content is excluded.
 - **No verbatim quotes. No posts are quoted in the thesis or any publication; illustrative examples are paraphrased.
